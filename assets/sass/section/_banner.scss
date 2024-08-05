@@ -125,7 +125,7 @@
             }
         }
     }
-  
+
 }
 
 
@@ -255,7 +255,7 @@
     &-content {
         z-index: 3;
         position: relative;
-        h2 {   
+        h2 {
             font-size: 74px;
             color: var(--text-white);
             font-weight: 700;
@@ -375,7 +375,7 @@
         z-index: 3;
         position: relative;
         text-align: center;
-        h2 {   
+        h2 {
             font-size: 74px;
             color: var(--text-white);
             font-weight: 700;
@@ -462,7 +462,7 @@
         }
         a:hover {
             color: var(--text-white);
-            i {    
+            i {
                 color: var(--text-white);
             }
         }
@@ -513,7 +513,7 @@
             }
         }
     }
-  
+
 }
 
 @media (max-width: 991px) {
@@ -561,7 +561,7 @@
         z-index: 3;
         position: relative;
         h2 {
-            font-size: 72px;
+            font-size: 60px;
             line-height: 1.15;
             margin-bottom: 20px;
             text-transform: none;
@@ -608,7 +608,7 @@
             }
         }
     }
-  
+
 }
 
 @media (max-width: 1399px) {
