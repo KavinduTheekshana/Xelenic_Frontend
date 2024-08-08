@@ -53,17 +53,17 @@ Highlighted Text Styles
 * Horizontal Scroll Animation
 * Contact One CSS
 * Contact Two CSS
-Contact Location Map 
-* Why Choose Us Style 
+Contact Location Map
+* Why Choose Us Style
 * Why Choose Us two CSS
 * Why Choose Us three Style
 * Why Choose Us four Style
 * Pricing Plan One CSS
 * Pricing Plan Two CSS
 * Work Process One Style
-* Work Process Two style 
-* Work Process Three style 
-* Work Process Four style 
+* Work Process Two style
+* Work Process Three style
+* Work Process Four style
 * Counter One Style
 * FAQ Style One
 * FAQ Style Two
@@ -3237,7 +3237,7 @@ p {
   display: inline-block;
 }
 .header__area-menubar-left-logo a img {
-  max-width: 165px;
+  max-width: 185px;
   position: relative;
   z-index: 9999;
 }
@@ -6132,7 +6132,7 @@ p {
   transition: 0.3s;
 }
 .team__two-team-item-content .share-link-wrapper:hover {
-  border-radius: 0 0 5px 5px;
+  /* border-radius: 0 0 5px 5px; */
 }
 .team__two-team-item-content .share-link-wrapper:hover .share-links {
   opacity: 1;
@@ -6425,7 +6425,7 @@ p {
   }
 }
 /*==========================================================================
-* Contact Location Map 
+* Contact Location Map
 ==========================================================================*/
 .location-map {
   height: 651px;
@@ -6484,7 +6484,7 @@ p {
   }
 }
 /*==========================================================================
-* Why Choose Us Style 
+* Why Choose Us Style
 ==========================================================================*/
 .why-choose-us__one {
   background-color: var(--color-1);
@@ -6622,7 +6622,7 @@ p {
 }
 
 /*==========================================================================
-* Why Choose Us three Style 
+* Why Choose Us three Style
 ==========================================================================*/
 .why-choose-us__three {
   background-color: var(--color-1);
@@ -6716,7 +6716,7 @@ p {
   }
 }
 /*==========================================================================
-* Why Choose Us four Style 
+* Why Choose Us four Style
 ==========================================================================*/
 .why-choose-us__four-title h2 {
   text-transform: none;
@@ -7104,7 +7104,7 @@ p {
   }
 }
 /*==========================================================================
-* Work Process Two style 
+* Work Process Two style
 ==========================================================================*/
 .work-process__two-title {
   margin-bottom: 60px;
@@ -7207,7 +7207,7 @@ p {
   }
 }
 /*==========================================================================
-* Work Process Three style 
+* Work Process Three style
 ==========================================================================*/
 .work-process__three {
   background-size: cover;
@@ -7300,7 +7300,7 @@ p {
   }
 }
 /*==========================================================================
-* Work Process Four style 
+* Work Process Four style
 ==========================================================================*/
 .work-process__four {
   background-color: var(--primary-color-1);
